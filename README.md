@@ -2,7 +2,12 @@
 
 The workshop discussed the natural language understanding and generation in the context of Indian languages, and worked through hand-on Colab notebooks for various AI4Bharat NLU and NLG tools. 
 
+**Note** Please use the [Discussions forum](https://github.com/AI4Bharat/workshop-nlg-nlu-2022/discussions) of this repository for all discussions/queries about our Indian language NLU and NLG tools.
+
+
 ## Release 
+
+We released the following for the launch
 
 ## Presentation
 
