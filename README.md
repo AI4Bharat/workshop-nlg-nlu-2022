@@ -19,7 +19,9 @@ You can find the workshop slide deck [HERE](https://github.com/AI4Bharat/worksho
 
 ## Recording 
 
-_Coming soon_
+- [Session Introduction and Natural Language Understanding](https://www.youtube.com/watch?v=gEitJJ8zUr8)
+- [Natural Language Generation](https://www.youtube.com/watch?v=iegmGpA0Zvk&t=851s)
+- [Named Entity Recognition](https://www.youtube.com/watch?v=z2geHApy9pk)
 
 ## Colab Notebooks
 
