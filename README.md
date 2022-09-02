@@ -17,7 +17,7 @@ We announced the release of the following during the launch of the Nilekani Cent
 
 You can find the workshop slide deck [HERE](https://github.com/AI4Bharat/workshop-nlg-nlu-2022/blob/master/ai4bharat-nlu-nlg-worksop-2022.pdf) 
 
-## Recording 
+## Video Recordings 
 
 - [Session Introduction and Natural Language Understanding](https://www.youtube.com/watch?v=gEitJJ8zUr8)
 - [Natural Language Generation](https://www.youtube.com/watch?v=iegmGpA0Zvk&t=851s)
